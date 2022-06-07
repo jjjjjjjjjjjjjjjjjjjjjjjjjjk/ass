@@ -1,6 +1,93 @@
-#!/usr/bin/env python
-#Author: Intrackeable
-#Github: https://github.com/intrackeable
+print ("Ransomware v2 to decrypt please wait for further instruction");
+print ("your files are safe for a little while, but no for long");
+import time
+time.sleep(3)
+print ( "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE   EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE    EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE   EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
+import time
+time.sleep(3)
+print ("say goodbye to your files")
+import time
+time.sleep(1)
+print(10)
+import time
+time.sleep(1)
+print(9)
+import time
+time.sleep(1)
+print(8)
+import time
+time.sleep(1)
+print(7)
+import time
+time.sleep(1)
+print(6)
+import time
+time.sleep(1)
+print(5)
+import time
+time.sleep(1)
+print(4)
+import time
+time.sleep(1)
+print(3)
+import time
+time.sleep(1)
+print(2)
+import time
+time.sleep(1)
+print(1)
+import time
+time.sleep(1)
+print(0)
+import os
+clear = lambda: os.system('cls')
+clear()
+
+import time
+time.sleep(1)
+print("encryption activated")
+import time
+time.sleep(1)
+print("[-] starting encryption proccess...")
+import os
+clear = lambda: os.system('cls')
+clear()
+import time
+time.sleep(1)
+print("[+] Files encrypted")
+import os
+clear = lambda: os.system('cls')
+clear()
+
+import time
+time.sleep(1)
+print("[-] sending files to remote server... ... ...");
+import os
+clear = lambda: os.system('cls')
+clear()
+
+print ("[+] CoMpLeTe")
+import os
+clear = lambda: os.system('cls')
+clear()
+print("[-]Finding IP and computer host name...")
+import os
+clear = lambda: os.system('cls')
+clear()
+# Python Program to Get IP Address
+import socket
+hostname = socket.gethostname()
+IPAddr = socket.gethostbyname(hostname)
+print("[+]Hostname found:" + hostname)
+
+print("[+]ip found:" + IPAddr)
+import os
+clear = lambda: os.system('cls')
+clear()
+print("[-] Starting process.locker.dll")
+import os
+clear = lambda: os.system('cls')
+clear()
 
 import os, smtplib, platform, random, requests, pymysql, pwd
 from datetime import datetime
